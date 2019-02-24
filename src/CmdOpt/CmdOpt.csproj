@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>cmdopt</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Leo Brugnara</Authors>
+    <Description>A command line argument parser library</Description>
+    <Copyright>Leo Brugnara</Copyright>
+    <PackageLicenseUrl>https://github.com/lbrugnara/clap/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/lbrugnara/clap</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/lbrugnara/clap</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>cmd;command line;arguments;argument parser;cli</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
